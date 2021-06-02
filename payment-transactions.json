@@ -1,0 +1,65 @@
+[
+  {
+    "Code": "IDN",
+    "Country": "Indonesia",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "11%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "3%",
+    "Made digital payments in the past year (% age 15+)": "27%"
+  },
+  {
+    "Code": "KHM",
+    "Country": "Cambodia",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "4%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "1%",
+    "Made digital payments in the past year (% age 15+)": "12%"
+  },
+  {
+    "Code": "LAO",
+    "Country": "Lao PDR",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "7%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "1%",
+    "Made digital payments in the past year (% age 15+)": "8%"
+  },
+  {
+    "Code": "MMR",
+    "Country": "Myanmar",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "4%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "0%",
+    "Made digital payments in the past year (% age 15+)": "4%"
+  },
+  {
+    "Code": "MYS",
+    "Country": "Malaysia",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "39%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "10%",
+    "Made digital payments in the past year (% age 15+)": "60%"
+  },
+  {
+    "Code": "PHL",
+    "Country": "Philippines",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "10%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "0%",
+    "Made digital payments in the past year (% age 15+)": "14%"
+  },
+  {
+    "Code": "SGP",
+    "Country": "Singapore",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "57%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "8%",
+    "Made digital payments in the past year (% age 15+)": "84%"
+  },
+  {
+    "Code": "THA",
+    "Country": "Thailand",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "19%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "4%",
+    "Made digital payments in the past year (% age 15+)": "43%"
+  },
+  {
+    "Code": "VNM",
+    "Country": "Vietnam",
+    "Used the internet to pay bills or to buy something online in the past year (% age 15+)": "21%",
+    "Paid utility bills: using a mobile phone (% age 15+)": "2%",
+    "Made digital payments in the past year (% age 15+)": "16%"
+  }
+]
